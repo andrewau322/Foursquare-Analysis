@@ -1,1 +1,1 @@
-print("functions for analysis Foursquare data")
+print("Functions for analyzing")
